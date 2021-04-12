@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello World</title>
+	<meta charset="utf-8" />
+
+	<!-- style sheets -->
+	<link rel="stylesheet" href="css/style.css">
+
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+</head>
+
+<body>
+
+	<div class="header">
+		<h1>The Places I've Been</h1>
+	</div>
+	<div class="sidebar">
+		This map shows five places I have been to that are siginificant to me. 
+	</div>
+	<div class="content">
+		<div id="map"></div>
+	</div>
+	
+    <script>
+       
+		let data = [
+		{
+			'title':'Takamatsu',
+			'description':'I love Takamatsu because the udon here is amazingly cheap and delicious. It also has one of my favorite bookstores in the world!',
+			'lat': 34.34088268614786, 
+			'lon': 134.05004730927806
+		},
+		{
+			'title':'Paris',
+			'description':'Paris is a city that always speaks to me in a special way. I have set the location to the place which contains one of my best memories there – the Georges Brassens book market.',
+			'lat': 48.831358978159685,
+			'lon':  2.3017509253082347
+		},
+		{
+			'title':'Shenzhen',
+			'description': 'Shenzhen is where I was born and raised. It is the only place I will call home, although I have not gone back in a long time.',
+			'lat': 13.7563,
+			'lon': 100.5018
+		},
+		{
+			'title':'Tulum',
+			'description':'I went cave diving in Tulum, Mexico, and it was one of the most fascinating thing I have done. The water was crystal clear.',
+			'lat': 20.32566214023188, 
+			'lon': -87.39123412698414
+		},
+		{
+			'title':'Anchorage',
+			'description': 'I went to Alaska a few weeks ago with my friends. Although we missed the northern lights, I was very happy during our trip to the Matanuska Glacier, which was stunning.',
+			'lat': 61.69510964307052,
+			'lon': -147.60034562928942
+		}]
+
+		var map = L.map('map').setView([13.7563,100.5018],1);
+
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+
+		data.forEach(function(item){
+
+			var marker = L.marker([item.lat,item.lon]).addTo(map)
+				.bindPopup(item.title+': '+item.description)
+				.openPopup();	
+		});
+    </script>
+
+</body>
+</html>
