@@ -1,0 +1,205 @@
+Month,City,lat,lon,Description,Link,geometry
+March 2020,Chicago,41.8755616,-87.6244212,"Chicago | A 60-year-old Chinese-American man out for a run was spit at by two women who threw a log at him, accused him of being sick and told him to “go back to China.”",https://www.wbez.org/stories/asian-americans-in-chicago-feel-the-bite-of-prejudice-during-the-spread-of-the-coronavirus/687b0f4e-fed8-4fca-90c4-b7c3c495b4cf,POINT (-87.6244212 41.8755616)
+March 2020,Manhattan,40.7896239,-73.9598939,Manhattan | A 59-year-old man was kicked in the back and told to go back to his country by a teenager who also used an expletive to make a racist comment about the coronavirus.,https://nypost.com/2020/03/11/asian-man-is-victim-in-latest-coronavirus-fueled-hate-crime/,POINT (-73.9598939 40.7896239)
+March 2020,Bronx,40.8466508,-73.8785937,Bronx | A 52-year-old woman on a bus was attacked by a group of teenage girls who accused her of spreading the coronavirus. One of them hit her with an umbrella.,https://www.nytimes.com/2021/03/18/nyregion/asian-hate-crimes.html,POINT (-73.8785937 40.8466508)
+March 2020,Queens,40.7498243,-73.7976337,Queens | A 47-year-old man and his 10-year-old son were repeatedly harassed with vulgar racial and mask-related statements by a man who went on to push the victim in the back of the head.,https://nypost.com/2020/03/14/asian-man-son-harassed-in-potential-queens-hate-crime/,POINT (-73.79763370000001 40.7498243)
+March 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A 34-year-old woman was attacked on the street by another woman who spit on her, pulled her hair and told her, “You are the reason we have the coronavirus.”",https://pix11.com/news/coronavirus/woman-assaulted-in-manhattan-blamed-for-covid-19-outbreak-police-say/,POINT (-73.9598939 40.7896239)
+March 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A 23-year-old Korean student was grabbed by the hair and punched in the face by a woman who yelled expletives at her and said, “You’ve got coronavirus.”",https://abc7ny.com/6003396/,POINT (-73.9598939 40.7896239)
+March 2020,Miami Beach,25.7929198,-80.1353006,Miami Beach | An older woman was chased around by a man with a bottle of hand sanitizer who used vulgar language to say she needed to clean herself.,https://www.ibtimes.sg/viral-video-man-bullies-elderly-asian-woman-chases-her-florida-beach-sanitizer-41398,POINT (-80.13530059999999 25.7929198)
+March 2020,"Midland, Texas",31.9973662,-102.0779482,"Midland, Texas | Three family members, including a 2-year-old baby, were stabbed by a 19-year-old in a grocery store because he thought they were “Chinese and infecting people with the coronavirus.”",https://www.kxan.com/news/crime/report-sams-club-stabbing-suspect-thought-family-was-chinese-infecting-people-with-coronavirus/,POINT (-102.0779482 31.9973662)
+March 2020,Manhattan,40.7896239,-73.9598939,Manhattan | An Asian man had a bucket of water thrown on him because “he has coronavirus” while standing and smoking on the sidewalk.,https://nextshark.com/man-fights-back-after-getting-water-thrown-at-him-because-he-has-coronavirus-in-nyc/,POINT (-73.9598939 40.7896239)
+April 2020,"Edison, N.J.",40.5382375,-74.39451734508770,"Edison, N.J. | A 55-year-old-woman was surrounded by a group of teenagers and punched in the back of her head. The group shouted racial slurs related to the origin of the coronavirus.",https://www.nj.com/coronavirus/2020/04/girl-charged-with-racially-assaulting-asian-woman-over-coronavirus.html,POINT (-74.39451734508772 40.5382375)
+May 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A 30-year-old man riding the subway was accosted by a man who shouted, “China boy” and “You're infected,” and tried to shove him off the train.",https://patch.com/new-york/midtown-nyc/asian-man-attacked-midtown-train-over-coronavirus-nypd,POINT (-73.9598939 40.7896239)
+May 2020,Seattle,47.6038321,-122.3300624,"Seattle | A couple on the street were spit on, shoved and struck by a man who said, “It’s all your fault.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Seattle Police Department",https://www.seattletimes.com/seattle-news/crime/seattle-police-searching-for-man-who-attacked-blamed-asian-couple-for-coronavirus-pandemic/,POINT (-122.3300624 47.6038321)
+June 2020,"Albany, New York",42.6511674,-73.754968,"Albany, N.Y. | Younglae Kim, a 27-year-old Korean employee at a beauty supply store, was pushed to the ground, spit on and harassed with racist remarks after confronting a customer for not wearing a mask.",https://wnyt.com/news/albany-shop-employee-says-he-was-attacked-for-trying-to-enforce-social-distancing/5759718/,POINT (-73.75496800000001 42.6511674)
+August 2020,Philadelphia,39.9527237,-75.1635262,Philadelphia | A pregnant mother was punched and called a racial slur. The attacker also sprayed water on her and her daughter.,https://6abc.com/asian-woman-attack-philly-attacked-philadelphia/6356446/,POINT (-75.16352620000001 39.9527237)
+November 2020,Washington D.C.,38.8949924,-77.0365581,"Washington D.C. | Yunhan Zhang, a tea shop owner, was pepper-sprayed by a customer who also shouted “Chinese” and “Covid-19.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Valley Brook Tea",https://www.washingtonpost.com/local/public-safety/covid-attack-chinese-dc-tea-shop/2020/11/11/b723db0a-2451-11eb-a688-5298ad5d580a_story.html,POINT (-77.03655809999999 38.8949924)
+December 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A 32-year-old woman was verbally attacked by a group of people, who made anti-Asian statements about the coronavirus and punched her in the face multiple times.",https://www.nbcnewyork.com/news/local/unmasked-woman-beaten-in-subway-bias-attack-nypd/2798851/,POINT (-73.9598939 40.7896239)
+January 2021,"Portland, Ore.",45.5202471,-122.6741949,"Portland, Ore. | A woman and her son were kicked on a bus by a man, who said, “All Chinese persons have the virus and gave it to us.”",https://katu.com/news/local/man-accused-of-kicking-asian-american-woman-racial-slurs-while-on-bus,POINT (-122.6741949 45.5202471)
+January 2021,Seattle,47.6038321,-122.3300624,"Seattle | A woman at a crosswalk was shoved hard by a man, who then yelled, “Asians need to be put in their place.”",https://komonews.com/news/local/he-was-trying-to-kill-us-says-man-in-attack-in-chinatown-international-district,POINT (-122.3300624 47.6038321)
+February 2021,Los Angeles,34.0536909,-118.242766,"Los Angeles | Denny Kim, a 27-year-old Korean-American Air Force veteran, was struck in the face, called slurs and told, “You have the Chinese virus, go back to China.”",https://www.nbclosangeles.com/news/local/attack-asian-american-air-force-veteran-koreatown-violence-hate-crime/2534393/,POINT (-118.242766 34.0536909)
+February 2021,"Mountain View, Calif.",37.3893889,-122.0832101,"Mountain View, Calif. | A 36-year-old man was spit on and called a racial slur by a 39-year-old woman.",https://thehill.com/blogs/blog-briefing-room/news/542341-california-woman-charged-with-hate-crime-after-spitting-at,POINT (-122.0832101 37.3893889)
+February 2021,Manhattan,40.7896239,-73.9598939,Manhattan | A 27-year-old man was punched in the face on the street. The attacker made anti-Asian comments.,https://www.nydailynews.com/new-york/nyc-crime/ny-manhattan-anti-asian-hate-crime-20210315-7nys64b5vvdklf2icffkllp54q-story.html,POINT (-73.9598939 40.7896239)
+February 2021,"Salem, Ore.",44.9391565,-123.033121,"Salem, Ore. | A 21-year-old student on her way to a grocery store was pushed and kicked by two men who made disparaging, racially charged comments to her.",https://www.koin.com/news/crime/willamette-university-student-victim-of-possible-hate-crime-salem-police-bias-crime/,POINT (-123.033121 44.9391565)
+February 2021,Seattle,47.6038321,-122.3300624,"Seattle | Noriko Nasu, a Japanese-American high school teacher, was attacked with a hard object, suffering a fractured nose and chipped teeth, in an incident police investigated as a ""bias crime.""",https://komonews.com/news/local/victim-of-attack-in-chinatown-international-district-says-assault-was-hate-crime,POINT (-122.3300624 47.6038321)
+March 2021,Queens,40.7498243,-73.7976337,"Queens | A 25-year-old mother and her baby were spit at three times, then called “Chinese virus.”",https://abc7ny.com/woman-spit-at-chinese-virus-possible-hate-crime-asian-american-assault/10405303/,POINT (-73.79763370000001 40.7498243)
+March 2021,San Francisco,37.7790262,-122.419906,"San Francisco | A South Asian Uber driver was coughed on, racially insulted and threatened by three women, one of whom pepper-sprayed his car, after he asked one to wear a mask and she refused.",https://abc7news.com/uber-driver-attacked-by-passenger-mask-assaulted-subhakar/10401067/,POINT (-122.419906 37.7790262)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | A 68-year-old man was struck in the head unprovoked by a 36-year-old, who used an anti-Asian slur.",https://abc7ny.com/nyc-subway-crime-man-assaulted-on-assault-attack/10438131/,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,Manhattan | A 66-year-old Asian man was punched in the face on the street in Chinatown and suffered swelling and bruising. The attacker yelled racial slurs at him before striking him.,https://abc7ny.com/asian-hate-crimes-rallies-chinatown-american/10437624/,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | A 65-year-old Filipino-American woman was kicked and stomped on in broad daylight in Manhattan near Times Square by a man who made anti-Asian comments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: N.Y.P.D. via Twitter",https://www.nytimes.com/2021/03/30/nyregion/attack-asian-woman-midtown.html,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,Manhattan | A 65-year-old woman was approached by a man waving an unknown object at her and shouting anti-Asian remarks.,https://patch.com/new-york/midtown-nyc/nypd-search-man-accused-shouting-anti-asian-slurs-woman,POINT (-73.9598939 40.7896239)
+March 2021,Los Angeles,34.0536909,-118.242766,"Los Angeles | A man in his 60s was struck in the head with a brick by a woman. The attacker shouted “Go back to China!”, according to the victim’s daughter.",http://m.ny.koreadaily.com/news/read.asp?art_id=9193884,POINT (-118.242766 34.0536909)
+March 2021,Manhattan,40.7896239,-73.9598939,Manhattan | A 56-year-old Chinese man was beaten in a subway station on Manhattan's Lower East Side. Police classified the attack as a hate crime.,https://newyork.cbslocal.com/2021/03/04/lower-east-side-asian-man-attacked/,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | A 54-year-old Asian woman needed stitches after she was struck in the face with a metal pipe by a man who declared, using an expletive, that he intended to hurt Asians.",https://www.msn.com/en-us/news/crime/i-came-here-to-f-up-asians-woman-hit-in-face-with-metal-pipe-in-latest-manhattan-hate-crime/ar-BB1eQ1br,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,Manhattan | A 44-year-old woman on the subway was spit at by a man who hurled her phone to the tracks and called her an “Asian slut” in front of her children.,https://nypost.com/2021/03/31/man-hurls-anti-asian-slurs-spits-on-woman-on-nyc-subway/,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | A 41-year-old Asian-American woman was picking up packages when a man poured and spit a drink on the back of her neck and bags, then yelled, “Go back to China.”",https://nypost.com/2021/03/16/asian-victims-targeted-in-two-separate-nyc-attacks-cops/,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | A 37-year-old woman was followed in a subway station by a man who said, “Go back to your country,” called her a slur and punched her in the face.",https://www.nbcnewyork.com/news/local/crime-and-courts/man-wanted-for-punching-woman-in-face-yelling-anti-asian-slurs-in-midtown-station-cops/2968818/,POINT (-73.9598939 40.7896239)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | Katie Hou, 37, was leaving a protest against anti-Asian hate when she was punched in the face twice, after her sign was stolen and destroyed.",https://www.curbed.com/2021/03/katie-hou-nyc-anti-asian-hate-protest-attack.html,POINT (-73.9598939 40.7896239)
+March 2021,"San Jose, Calif.",37.3361905,-121.890583,"San Jose, Calif. | A 26-year-old woman was sexually assaulted and called racial slurs while waiting for a train.",https://www.kron4.com/news/bay-area/asian-woman-attacked-while-waiting-for-train-in-san-jose/,POINT (-121.890583 37.3361905)
+March 2021,Queens,40.7498243,-73.7976337,"Queens | A 13-year-old boy was attacked by a group of teenagers who threw basketballs at his head while yelling obscenities, insults and “Go back to China.”",https://thehill.com/homenews/state-watch/543978-anti-asian-incident-against-teen-under-investigation-by-nypd-rep-grace,POINT (-73.79763370000001 40.7498243)
+March 2021,"Los Gatos, Calif.",37.226611,-121.9746797,"Los Gatos, Calif. | A woman of Filipino descent was shoved to the ground from behind and told, with expletive-laced language, to go back to China.",https://sanfrancisco.cbslocal.com/2021/04/01/asian-american-attacks-los-gatos-filipino-medical-worker-shoved-suspect-sought/,POINT (-121.9746797 37.226611)
+March 2021,Houston,29.7589382,-95.3676974,"Houston | Jung Kim, a 59-year-old Korean-American woman, was punched in the face repeatedly by a group of young women who yelled racial slurs.",https://www.washingtonpost.com/nation/2021/03/25/houston-beautyshop-asian-attack/,POINT (-95.3676974 29.7589382)
+March 2021,"Oakland, Calif.",37.8044557,-122.2713563,"Oakland, Calif. | A gas station owner was confronted with a racist tirade of obscenities when a customer told him, “You’re not from here! You’re Asian!” and yelled stereotypes. The episode turned violent when the customer then used pepper spray on the owner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Cwell",https://abc7news.com/exclusive-video-shows-racist-tirade-on-asian-gas-station-owner/10417580/,POINT (-122.2713563 37.8044557)
+March 2020,"Martinsville, Ind.",39.4278253,-86.428328,"Martinsville, Ind. | A doctor of Korean descent born in Kentucky who stopped into a gas station for coffee was accosted by a store clerk who shouted, “Never come back. Don’t ever come back” and kicked him out.",https://www.wdrb.com/news/louisville-doctor-of-korean-descent-says-he-was-kicked-out-of-indiana-gas-station-because/article_ce09b57e-747f-11ea-b875-f79c7ea5c776.html,POINT (-86.42832799999999 39.4278253)
+March 2020,"Syracuse, N.Y.",41.4164496,-85.74663928833560,"Syracuse, N.Y. | A man shouted, “It’s you people who brought the disease” to a 30-year-old videographer at a grocery store.",https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html,POINT (-85.74663928833557 41.4164496)
+March 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A woman named Emily Chen was confronted in the subway by a man who asked her, “You’re Chinese, why did you bring corona to America?”",https://www.nbcnews.com/news/asian-america/video-shows-passenger-defending-asian-woman-facing-racism-new-york-n1162296,POINT (-73.9598939 40.7896239)
+March 2020,San Diego,32.7174202,-117.1627728,San Diego | An Uber driver was harassed with coronavirus-related comments from one of the passengers after he told them he was from Hong Kong.,https://wgntv.com/news/coronavirus/asian-americans-reporting-racism-harassment-amid-covid-19-pandemic/,POINT (-117.1627728 32.7174202)
+March 2020,Brooklyn,40.6501038,-73.9495823,"Brooklyn | A 26-year-old woman on the subway had her phone stolen by a man who told her, “Go back to China” and “You are dirty, get your temperature checked.”",https://www.nydailynews.com/coronavirus/ny-coronavirus-cellphone-robbery-hate-crime-brooklyn-subway-20200322-ufznc24nybcencdtja2ycbsx2i-story.html,POINT (-73.9495823 40.6501038)
+April 2020,"Seymour, Conn.",41.3943578,-73.0741697,"Seymour, Conn. | The Chinese owners of a sushi restaurant received multiple calls from people who blamed them for the pandemic, swore at them and threatened to shoot them.",https://valley.newhavenindependent.org/archives/entry/update_racist_death_threats_lodged_against_seymour_restaurant/,POINT (-73.0741697 41.3943578)
+April 2020,"Cleveland, Ohio",41.5051613,-81.6934446,"Cleveland, Ohio | Kiwi Wongpeng, a Thai-American woman, was driving when another driver yelled insults, including: “You’re a virus and get out of America. And that's an order.”",https://www.latimes.com/world-nation/story/2021-03-05/anti-asian-crimes-harassment,POINT (-81.69344460000001 41.5051613)
+April 2020,Queens,40.7498243,-73.7976337,"Queens | Yen Yen Pong, 37, was accosted by a maskless stranger who yelled racist remarks about the coronavirus.",https://www.nytimes.com/2021/02/26/nyregion/asian-hate-crimes-attacks-ny.html,POINT (-73.79763370000001 40.7498243)
+April 2020,Queens,40.7498243,-73.7976337,"Queens | A 36-year-old woman was verbally harassed by a man who gave her the middle finger, struck her phone to the ground and said, “You’re the one who brought the virus here.”",https://patch.com/new-york/foresthills/asian-woman-harassed-coronavirus-rego-park-nypd,POINT (-73.79763370000001 40.7498243)
+May 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A 30-year-old nurse was harassed on a train by a man who called him a racial slur, then said, “You’re infected” and tried to remove him from the train.",https://nypost.com/2020/05/04/racist-brute-tries-to-remove-asian-nurse-from-subway-car-cops/,POINT (-73.9598939 40.7896239)
+May 2020,"Stevens Point, Wis.",44.5229223,-89.574111,"Stevens Point, Wis. | Grocery shoppers of Asian descent were called racial slurs and harassed for wearing masks.",https://www.stevenspointjournal.com/story/news/2020/05/19/stevens-point-man-accused-racist-attack-shoppers-wearing-masks/5219356002/,POINT (-89.574111 44.5229223)
+May 2020,Philadelphia,39.9527237,-75.1635262,Philadelphia | A couple was called “disease spreader” by a man in a car at a stoplight.,https://nextshark.com/philadelphia-racist-asian-americans-disease-spreader/,POINT (-75.16352620000001 39.9527237)
+May 2020,Los Angeles,34.0536909,-118.242766,"Los Angeles | A store cashier was verbally harassed by a man who said, “Asians are dirty,” as well as several obscenities.",https://nextshark.com/asians-are-dirty-as-a-mother-fer-man-caught-targeting-koreatown-store-cashier-with-racist-rant/,POINT (-118.242766 34.0536909)
+May 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A 36-year-old woman on the subway was accosted by a woman who cursed at her multiple times and told her to “Go back to China,” then struck her phone as the victim filmed the rant.",https://nypost.com/2020/05/17/straphanger-launches-anti-chinese-attack-aboard-f-train-cops-say/,POINT (-73.9598939 40.7896239)
+June 2020,Philadelphia,39.9527237,-75.1635262,"Philadelphia | Stephen Kulp, a 32-year-old attorney, was accosted by someone shouting, “Chinese virus, go back to where you came from!” and a series of slurs on a street.",https://www.inquirer.com/news/stop-asian-hate-crimes-philadelphia-aapi-violence-coronavirus-20210318.html,POINT (-75.16352620000001 39.9527237)
+June 2020,"St. Petersburg, Florida",27.7703796,-82.6695085,"St. Petersburg, Fla. | A Filipino-American sports reporter was repeatedly called “kung flu,” told to go back to China and mocked for wearing a mask in a grocery store.",https://patch.com/florida/stpete/racist-slurs-target-tb-rays-reporter-wearing-face-mask-publix,POINT (-82.66950850000001 27.7703796)
+June 2020,"Torrance, Calif.",33.8358492,-118.3406288,"Torrance, Calif. | A man was told to “go home” and called a racial slur by a woman in a public park.",https://abc7.com/torrance-karen-tirade-racist-anti-asian/6243818/,POINT (-118.3406288 33.8358492)
+June 2020,"San Jose, Calif.",37.3361905,-121.890583,"San Jose, Calif. | An elderly couple was called “disgusting” by a jogger while they were on a walk.",https://nextshark.com/san-jose-elderly-couple-racist-jogger-california/,POINT (-121.890583 37.3361905)
+June 2020,Queens,40.7498243,-73.7976337,"Queens | Sungmin Kwon, 23, was called racial slurs and told that Asians don’t belong in this country while getting snacks at a 7-Eleven. He confronted the attacker and then was pushed. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Sungmin Kwon via Storyful",https://jacksonheightspost.com/bayside-resident-assaulted-by-bigot-in-anti-asian-attack-caught-on-camera,POINT (-73.79763370000001 40.7498243)
+July 2020,Bronx,40.8466508,-73.8785937,"Bronx | Crisanna Tang, 30, was spit on while riding the subway on her way to work. The assailant screamed “Asians caused the virus!” and “Go back to China!”",https://bronx.news12.com/woman-says-man-spit-on-her-told-her-to-go-back-to-china-42459193,POINT (-73.8785937 40.8466508)
+July 2020,"Carmel Valley, Calif.",36.48290245,-121.71417288463400,"Carmel Valley, Calif. | A family celebrating a birthday at a restaurant was accosted by a tech C.E.O., who went on a racist rant against them.",https://abc7news.com/tech-ceo-racist-rant-solid8-michael-lofthouse-in-carmel-gennica-cochran/6307544/,POINT (-121.7141728846345 36.48290245)
+July 2020,"Mt. Tam, Calif.",37.9290101,-122.5776897,"Mt. Tam, Calif. | An Asian-American family out for a hike was confronted on the trail by a woman telling them they “can’t be in this country.”",https://abc7news.com/society/exclusive-asian-family-speaks-out-after-being-told-you-cant-be-in-this-country/6305534/,POINT (-122.5776897 37.9290101)
+July 2020,"Los Altos, Calif.",37.3790629,-122.116578,"Los Altos, Calif. | A U.S. Postal Service worker was called an anti-Asian slur after being scolded by an angry customer.",https://www.losaltosonline.com/news/sections/news/297-news-features/62951-residents-rally-in-wake-of-post-office-hate-incident,POINT (-122.116578 37.3790629)
+July 2020,Brooklyn,40.6501038,-73.9495823,"Brooklyn | Xian Tang, a driver who honked his horn, was verbally harassed by a cyclist whose tirade included vulgar, anti-Asian, misogynist, ableist and homophobic language.",https://www.nbcnewyork.com/news/local/brooklyn-driver-becomes-victim-of-anti-asian-rant-after-minor-traffic-accident/2545775/,POINT (-73.9495823 40.6501038)
+August 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A woman riding the subway was verbally harassed by a man who shouted obscenities and “kung flu.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: PeiJung Lee via Storyful",https://www.yahoo.com/news/asian-american-targeted-racist-attack-054953095.html,POINT (-73.9598939 40.7896239)
+August 2020,Los Angeles,34.0536909,-118.242766,"Los Angeles | A woman, H.D. Lee, who was waiting for her lunch, was called derogatory racial slurs and misogynistic terms by a man after she refused to eat with him.",https://ktla.com/news/local-news/video-shows-man-hurling-racist-insults-at-asian-woman-in-central-l-a-restaurant/,POINT (-118.242766 34.0536909)
+September 2020,"Newport Beach, Calif.",33.6170092,-117.9294401,"Newport Beach, Calif. | Sophia Chang, a Korean-American entrepreneur and social media influencer, was told to “go back to Wuhan” while having lunch with her sister.",https://www.nbcnews.com/news/us-news/man-who-allegedly-told-korean-american-entrepreneur-go-back-wuhan-n1240937,POINT (-117.9294401 33.6170092)
+September 2020,"Ladera Ranch, Calif.",33.5510165,-117.6385401,"Ladera Ranch, Calif. | An Asian-American family was harassed relentlessly after moving into a new neighborhood, with kids throwing rocks, yelling slurs and pounding on their doors every night.",https://www.latimes.com/california/story/2021-03-02/an-asian-american-family-in-o-c-was-being-harassed-now-their-neighbors-stand-guard,POINT (-117.6385401 33.5510165)
+September 2020,"Garden Grove, Calif.",33.7746292,-117.9463717,"Garden Grove, Calif. | A man was sworn at and told, “I don’t think you live here” because of the shape of his eyes, along with a racial slur, by a neighbor who was unhappy with his son’s chalk drawings on the sidewalk.",https://www.newsweek.com/elderly-woman-racist-abuse-children-chalk-drawings-1530249,POINT (-117.9463717 33.7746292)
+October 2020,"Fremont, Calif.",37.5482697,-121.9885719,"Fremont, Calif. | A woman and her 10-year-old daughter were told “Go back to China!” by a neighbor.",https://abc7news.com/society/fremont-woman-tells-neighbor-10-year-old-girl-to-go-back-to-china/6901188/,POINT (-121.9885719 37.5482697)
+October 2020,Los Angeles,34.0536909,-118.242766,"Los Angeles | A man in traffic was given the middle finger, cursed at and called a racial slur by another driver, who also yelled “Trump 2020” and used his finger to make a gesture making fun of the man’s eyes.",https://nextshark.com/racist-driver-spews-racial-slurs-at-asian-man-trump-2020/,POINT (-118.242766 34.0536909)
+November 2020,San Diego,32.7174202,-117.1627728,"San Diego | A family with a 1-year-old daughter was out on a walk when confronted and subsequently followed by a woman whispering, “Why do Muslims behead white people and not Chinese people?”",https://www.nbclosangeles.com/news/california-news/la-jolla-family-says-they-were-racially-profiled-walking-to-the-beach/2454788/,POINT (-117.1627728 32.7174202)
+November 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | A man was involved a car accident, after which a bystander yelled a series of vulgar and racist statements, including, “Korea’s going down.”",https://nextshark.com/fdny-firefighter-standing-up-to-anti-asian-racist/,POINT (-73.9598939 40.7896239)
+December 2020,San Diego,32.7174202,-117.1627728,San Diego | A man using a squat rack at a gym was verbally abused by another patron who continued to yell numerous racial slurs even after other gym members confronted him.,https://www.dailydot.com/irl/racist-chad-gym-video/,POINT (-117.1627728 32.7174202)
+December 2020,"Orange County, Calif.",33.7500378,-117.8704931,"Orange County, Calif. | Hanna Li, a young woman, was accosted by a man who said, “Thanks for giving my country Covid,” along with an obscenity and a slur at a shopping mall.",https://ktla.com/news/local-news/racist-rant-caught-on-video-in-tustin-parking-lot-after-victim-says-she-asked-man-to-social-distance/,POINT (-117.8704931 33.7500378)
+January 2021,Chicago,41.8755616,-87.6244212,"Chicago | Mari Cobb, a 26-year-old research lab technician of Japanese descent, was filling up a soda at a Taco Bell when someone shouted that she had touched the dispenser, using an anti-Asian term. The person also yelled, ""Stop her! She started this whole thing!”",https://www.latimes.com/world-nation/story/2021-03-05/anti-asian-crimes-harassment,POINT (-87.6244212 41.8755616)
+January 2021,Seattle,47.6038321,-122.3300624,"Seattle | A couple taking money from an ATM was threatened with a pistol by an attacker who shouted, “go back to your country.”",https://katu.com/news/local/stranger-attacks-asian-couple-in-chinatown-as-hate-crimes-spike-in-king-county,POINT (-122.3300624 47.6038321)
+February 2021,Los Angeles,34.0536909,-118.242766,Los Angeles | A woman walking down the street was sworn at and called “dumb” and “a stupid blue Asian-haired girl” by a man who gave her the middle finger.,https://www.inman.com/2021/02/17/california-agent-fired-after-racist-verbal-attack-on-asian-woman/,POINT (-118.242766 34.0536909)
+March 2021,Brooklyn,40.6501038,-73.9495823,Brooklyn | A gym manager was yelled at and told to “go back to China” by a client who refused to wear a mask.,https://www.bkreader.com/2021/03/12/real-estate-agent-fired-after-hes-caught-on-camera-telling-gym-manager-to-go-back-to-china/,POINT (-73.9495823 40.6501038)
+March 2021,Miami,25.7741728,-80.19362,"Miami | A woman riding a bus who reminded a man to wear a mask was called racial slurs and told “Mind your business, Chinese lady. I don’t care about you people. Go to hell. This is America.""",https://www.nbcmiami.com/news/local/miami-woman-called-anti-asian-slurs-during-encounter-over-masks-on-county-bus/2412739/,POINT (-80.19362 25.7741728)
+March 2021,Brooklyn,40.6501038,-73.9495823,"Brooklyn | A man in a grocery store parking lot, in a dispute over boxes, was repeatedly sworn at by a woman, who brought up the man's race and said in obscene terms that she did not care if the tirade constituted a hate crime.",https://nextshark.com/gravesend-brooklyn-carton-boxes-korean-man/,POINT (-73.9495823 40.6501038)
+March 2021,Los Angeles,34.0536909,-118.242766,"Los Angeles | Raph David, a Filipino Uber driver, was berated by a passenger with expletives and racist insults.",https://www.nbcnews.com/news/asian-america/uber-bans-rider-after-racist-attack-asian-driver-lax-n1261018,POINT (-118.242766 34.0536909)
+March 2021,Manhattan,40.7896239,-73.9598939,"Manhattan | Maria Ha, 25, and Dan Lee, 31, were told to “go back to China” in expletive-laced verbal harassment by a woman in Manhattan.",https://abc7ny.com/asian-hate-crime-maria-ha-dan-anti-asian/10419611/,POINT (-73.9598939 40.7896239)
+March 2021,Portland,45.5202471,-122.6741949,"Portland | An Asian-American woman was in her car with her children when a man broke the side mirror and yelled, “You Chinese go back to your country.”",https://www.pressherald.com/2021/03/16/portland-police-looking-for-suspect-in-racially-motivated-attack/,POINT (-122.6741949 45.5202471)
+March 2021,Brooklyn,40.6501038,-73.9495823,"Brooklyn | An Asian-American owner of a laundromat was harassed by a group of teenagers who vandalized his store and used racial slurs, then attacked someone who tried to intervene.",https://abc7ny.com/brooklyn-good-samaritan-asian-american-hate-crime/10436206/,POINT (-73.9495823 40.6501038)
+March 2021,Queens,40.7498243,-73.7976337,"Queens | A 35-year-old woman riding the subway was verbally harassed by a man who made anti-Asian statements, then smashed her phone when she started filming.",https://www.nbcnewyork.com/news/local/woman-attacked-on-subway-in-latest-episode-of-anti-asian-violence/2961446/,POINT (-73.79763370000001 40.7498243)
+March 2021,Brooklyn,40.6501038,-73.9495823,"Brooklyn | A 28-year-old man was approached by a man at a Home Depot, threatening, “I’ll cut you.” The attacker asked his girlfriend, who’s not Asian, why she is with him.",https://nypost.com/2021/03/30/man-unleashes-anti-asian-attack-at-home-depot-in-brooklyn/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow,POINT (-73.9495823 40.6501038)
+March 2021,Los Angeles,34.0536909,-118.242766,"Los Angeles | Arden Cho, a 35-year-old actress, was walking her dog when someone threatened to kill both her and the dog, using vulgar and racist language.",https://www.usatoday.com/story/entertainment/celebrities/2021/04/02/teen-wolf-arden-cho-reveals-details-recent-anti-asian-attack/4850534001/,POINT (-118.242766 34.0536909)
+March 2020,"Woodbury, Minn",44.919896,-92.9339449,"Woodbury, Minn | An Asian family found a note on their doorstep that called them obscenities and said, “We’re watching you” and “take the Chinese virus back to China.”",https://minnesota.cbslocal.com/2020/03/27/coronavirus-in-minnesota-were-watching-you-racist-note-left-on-woodbury-home-of-asian-american-couple/,POINT (-92.9339449 44.919896)
+March 2020,"Yakima, Wash.",46.601557,-120.5108421,"Yakima, Wash. | A restaurant was graffitied with a racial slur and “Take the corona back,” and its windows were broken.",https://www.nbcnews.com/news/asian-america/smashed-windows-racist-graffiti-vandals-target-asian-americans-amid-coronavirus-n1180556,POINT (-120.5108421 46.601557)
+March 2020,"Madison, Wis.",43.074761,-89.3837613,"Madison, Wis. | “It’s from China #chinesevirus” was written on a sidewalk of a University of Wisconsin campus.",https://www.nbcnews.com/news/asian-america/smashed-windows-racist-graffiti-vandals-target-asian-americans-amid-coronavirus-n1180556,POINT (-89.3837613 43.074761)
+March 2020,"Pasadena, Calif.",34.1476452,-118.1444779,"Pasadena, Calif. | A poster for the movie ""Mulan"" was defaced so it would read, “Toxic, made in Wuhan.”",https://www.nbcnews.com/news/asian-america/smashed-windows-racist-graffiti-vandals-target-asian-americans-amid-coronavirus-n1180556,POINT (-118.1444779 34.1476452)
+March 2020,Albuquerque,35.0841034,-106.6509851,"Albuquerque | Shuyuan Ye, a college freshman and Chinese international student, had his door covered in plastic with a sign saying, “Caution, Keep Out, Quarantine.”",https://www.kob.com/albuquerque-news/chinese-student-at-unm-subject-of-racist-prank/5673113/,POINT (-106.6509851 35.0841034)
+March 2020,Albuquerque,35.0841034,-106.6509851,Albuquerque | An Asian noodle restaurant was marked with words meaning “watch out for the coronavirus.”,https://www.abqjournal.com/1453740/documentary-highlights-more-discrimination-against-asians.html,POINT (-106.6509851 35.0841034)
+March 2020,"Fresno, Calif.",36.7394421,-119.7848307,"Fresno, Calif. | A family’s car was graffitied with a vulgar anti-Asian sentiment and a reference to the coronavirus.",https://kmph.com/news/local/vandal-tags-fresno-asian-american-family-car-with-racist-graffiti-related-to-coronavirus,POINT (-119.7848307 36.7394421)
+March 2020,"San Angelo, Texas",31.4648357,-100.4398442,"San Angelo, Texas | Jihan Kim, a 23-year-old exchange student from South Korea, found coronavirus-related posters pasted on his dorm room and, after confronting the person who did it, was threatened with a gun.",https://www.gosanangelo.com/story/news/crime/2020/04/03/angelo-state-students-arrested-after-fight-over-covid-19-poster/5113243002/,POINT (-100.4398442 31.4648357)
+April 2020,Manhattan,40.7896239,-73.9598939,"Manhattan | “Stop eating dogs” was graffitied across a windowpane at a Michelin-starred Korean restaurant. 
+
+
+Source: Jeju Noodle Bar",https://ny.eater.com/2020/4/13/21218921/jeju-noodle-bar-racist-graffiti-harrasment-coronavirus-nyc,POINT (-73.9598939 40.7896239)
+May 2020,San Diego,32.7174202,-117.1627728,San Diego | Vulgar insults against China were spray-painted on a building at a Little League field.,https://www.10news.com/news/local-news/hateful-graffiti-discovered-at-little-league-field-in-allied-gardens,POINT (-117.1627728 32.7174202)
+May 2020,"Hoboken, N.J.",40.7433066,-74.0323752,"Hoboken, N.J. | Anti-Asian graffiti that included a racial slur was found spray-painted outside a New Jersey home.",https://abc7ny.com/new-jersey-graffiti-hate-crime-asian/6148052/,POINT (-74.0323752 40.7433066)
+May 2020,"San Leandro, Calif.",37.7249296,-122.1560768,"San Leandro, Calif. | Xenophobic, anti-Asian letters were distributed throughout a neighborhood. A 52-year-old woman was arrested for posting them.",https://abc7news.com/hate-crime-coronavirus-racist-flyer-san-leandro-pd/6207733/,POINT (-122.1560768 37.7249296)
+June 2020,"Wyckoff, N.J.",41.0095417,-74.1729222,"Wyckoff, N.J. | Graffiti including “coronavirus” and “go home to China” was written on the windows of a Chinese restaurant and the sidewalk in front of it.",https://www.northjersey.com/story/news/bergen/wyckoff/2020/06/17/wyckoff-nj-chinese-restaurant-vandalized-coronavirus-graffiti/3205748001/,POINT (-74.1729222 41.0095417)
+August 2020,"Irving, Texas",32.8295183,-96.9442177,"Irving, Texas | Racist hate mail was sent to someone blaming Chinese and Indian people for taking over jobs, and threatening to “shoot mercilessly” any that did not return to their home countries.",https://www.dallasnews.com/news/crime/2020/09/01/racist-hate-mail-threatens-violence-against-immigrants-irving-police-say/,POINT (-96.9442177 32.8295183)
+September 2020,"Austin, Minn.",43.6680928,-92.9744896,"Austin, Minn. | “China virus” was burned into the front lawn of David Chao, who has Chinese heritage.",https://www.kaaltv.com/austin-minnesota-news/austin-chinese-burned-front-yard/5866215/,POINT (-92.9744896 43.6680928)
+October 2020,San Francisco,37.7790262,-122.419906,"San Francisco | A woman’s home was vandalized, and an anti-mask note left behind included a vulgar racial slur. It read, in part: “You create the virus.”",https://abc7news.com/sfpd-investigating-after-asian-woman-targeted-with-vandalism-racist-letter/7252610/,POINT (-122.419906 37.7790262)
+October 2020,Brooklyn,40.6501038,-73.9495823,"Brooklyn | Three variations on “Kill all Chinese people COVID” were graffitied in a subway station.
+
+
+Source: N.Y.P.D. via Twitter",https://www.thecity.nyc/2021/2/11/22279407/anti-asian-hate-crime-surge-fuels-demands-for-systemic-and-sensitive-responses,POINT (-73.9495823 40.6501038)
+November 2020,"Pineville, N.C.",35.0855409,-80.8871253,"Pineville, N.C. | A real estate agent, Zheng Zheng Wiley, had her sign vandalized with an ethnic slur aimed at people of Chinese descent.",https://www.wcnc.com/article/news/crime/very-sick-feeling-inside-local-real-estate-agents-sign-spray-painted-with-ethnic-slur-aimed-at-people-of-chinese-descent/275-536509ec-63d4-4d08-b242-ed6f749b4abd,POINT (-80.88712529999999 35.0855409)
+December 2020,"Elk Grove, Calif.",38.4087993,-121.3716178,"Elk Grove, Calif. | The front door of a Japanese restaurant was vandalized and painted with racist words.",https://sacramento.cbslocal.com/2020/12/18/elk-grove-hat-speech-umai-arrest-hansen/,POINT (-121.3716178 38.4087993)
+February 2021,Los Angeles,34.0536909,-118.242766,"Los Angeles | A Buddhist temple in Little Tokyo was broken into, smashed and burned.",https://www.foxla.com/news/break-in-suspected-arson-at-a-little-tokyo-buddhist-temple-being-investigated-as-hate-crime,POINT (-118.242766 34.0536909)
+March 2021,San Antonio,29.4246002,-98.4951405,"San Antonio | An Asian restaurant was vandalized with racist and coronavirus-related graffiti after its owner spoke out about Texas ending its mask mandate.
+
+
+Source: Tyler Prince/214 Digital",https://www.cbsnews.com/news/mike-nguyen-texas-mask-mandate-racism/,POINT (-98.49514050000001 29.4246002)
+March 2021,Seattle,47.6038321,-122.3300624,"Seattle | The parking lot of a church was spray-painted with graffiti, including the words “CHINA YOU WILL PAY. GO HOME.”",https://komonews.com/news/local/racist-graffiti-scrawled-on-north-seattle-church-targets-asian-americans,POINT (-122.3300624 47.6038321)

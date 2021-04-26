@@ -1,0 +1,61 @@
+body,html {
+	margin:0;
+	height:100%;
+	width:100%;
+}
+
+#map {
+	height: 100%;
+}
+
+body {
+	display: grid;
+	grid-template-rows: 80px 1fr 50px;
+	grid-template-columns: 50% 50%;
+	grid-template-areas: 
+	"header header"
+	"sidebar content"
+	"footer footer";
+}
+
+.header {
+	grid-area: header;
+	padding:20px;
+	background-color: #6A4F27;
+	color: whitesmoke;
+	font-size: 2em;
+	text-align: center;
+}
+
+.sidebar {
+	color: white;
+	grid-area: sidebar;
+	padding:10px;
+	background-color: #544B3F;
+	overflow: auto;
+}
+
+.content {
+	grid-area: content;
+}
+
+.footer {
+	grid-area: footer;
+	padding:10px;
+	background-color: #F5D788;
+}
+
+div {
+    cursor: url(cur.cur), auto;
+}
+
+.note {
+	color: #70a197;
+	font-size:larger;
+}
+
+.month {
+	background-color: #70a197;
+	text-align: center;
+	font-size: large;
+}
